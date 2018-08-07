@@ -1,13 +1,10 @@
 h1{
-  background-color: pink;
-  color: red;
   text-align: center;
   font-style: italic;
   font-size: 13px
 }
 h2{
   background-color: inherit;
-  color: pink
   text-align: center;
   font-style: oblique;
   font-size: 10px
@@ -22,6 +19,9 @@ body{
   text-align: right;
   font-family: fantasy;
   font-size: 8px
-  background-color: grey;
   line-height: 8px;
 }
+.important{
+  color: pink
+}
+

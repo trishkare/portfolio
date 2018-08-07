@@ -1,6 +1,6 @@
 h1{
   background-color: pink;
-  color: inherit;
+  color: red;
   text-align: center;
   font-style: italic;
   font-size: 13px
@@ -12,8 +12,16 @@ h2{
   font-style: oblique;
   font-size: 10px
 }
+img{
+  float: left;
+  display: block;
+  height: 200px;
+  width: 250px;
+}
 body{
   text-align: right;
   font-family: fantasy;
   font-size: 8px
+  background-color: grey;
+  line-height: 8px;
 }
